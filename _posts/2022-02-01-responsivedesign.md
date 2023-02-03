@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Responsive Design Website'
-date: 2023-01-15 15:56:00
+date: 2022-01-15 15:56:00
 categories: development
 tags: JavaScript Sass HTML CSS Mobile-First
 featured_image: 'https://user-images.githubusercontent.com/122611045/212340091-129a7e1e-6c9b-4e18-9bd7-e0ab4e8fecb5.png?raw=true'

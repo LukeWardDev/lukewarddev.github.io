@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'Rock Paper Scissors Game'
-date: 2016-02-20 15:56:00
+date: 2022-02-01 15:56:00
 categories: development design
 tags: HTML CSS Javascript
 featured_image: 'https://user-images.githubusercontent.com/122611045/216107884-e93be4d6-a9dc-4cec-9472-3838feea4720.png'
