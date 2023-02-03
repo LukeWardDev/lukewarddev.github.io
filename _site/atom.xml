@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hello. I&apos;m Luke Ward.</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-02-02T21:21:28+00:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Luke Ward</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Responsive News Website</title>
+   <link href="http://localhost:4000/development/design/2023/02/01/responsive-news-website.html"/>
+   <updated>2023-02-01T15:00:00+00:00</updated>
+   <id>http://localhost:4000/development/design/2023/02/01/responsive-news-website</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Responsive Design Website</title>
+   <link href="http://localhost:4000/development/2023/01/15/responsivedesign.html"/>
+   <updated>2023-01-15T15:56:00+00:00</updated>
+   <id>http://localhost:4000/development/2023/01/15/responsivedesign</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Rock Paper Scissors Game</title>
+   <link href="http://localhost:4000/development/design/2016/02/20/rock-paper-scissors.html"/>
+   <updated>2016-02-20T15:56:00+00:00</updated>
+   <id>http://localhost:4000/development/design/2016/02/20/rock-paper-scissors</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>

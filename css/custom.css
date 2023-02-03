@@ -1,0 +1,5 @@
+.navbar{
+    background-color: none;
+        -webkit-backdrop-filter: blur(8px);
+        backdrop-filter: blur(8px);
+    }

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello. I&apos;m Luke Ward.</title>
+    <description>I&apos;m currently learning front end web development.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 02 Feb 2023 21:21:28 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Feb 2023 21:21:28 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Responsive News Website</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Feb 2023 15:00:00 +0000</pubDate>
+        <link>http://localhost:4000/development/design/2023/02/01/responsive-news-website.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2023/02/01/responsive-news-website.html</guid>
+        
+        <category>Sass</category>
+        
+        <category>HTML</category>
+        
+        <category>CSS</category>
+        
+        <category>Javascript</category>
+        
+        <category>Mobile-First</category>
+        
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>Responsive Design Website</title>
+        <description>
+</description>
+        <pubDate>Sun, 15 Jan 2023 15:56:00 +0000</pubDate>
+        <link>http://localhost:4000/development/2023/01/15/responsivedesign.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2023/01/15/responsivedesign.html</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>Sass</category>
+        
+        <category>HTML</category>
+        
+        <category>CSS</category>
+        
+        <category>Mobile-First</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Rock Paper Scissors Game</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 15:56:00 +0000</pubDate>
+        <link>http://localhost:4000/development/design/2016/02/20/rock-paper-scissors.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/rock-paper-scissors.html</guid>
+        
+        <category>HTML</category>
+        
+        <category>CSS</category>
+        
+        <category>Javascript</category>
+        
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+  </channel>
+</rss>
